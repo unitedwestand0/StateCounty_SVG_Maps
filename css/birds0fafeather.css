@@ -1,0 +1,185 @@
+
+/* -- CSS CODE FOR THE TYPOGRAPHY ABOVE THE MAP --*/
+
+
+  .h4-back-to-github-repository {
+   font-family: 'Poppins', sans-serif;
+   color: #ab84bb;
+   font-weight: 700;
+   font-size: 1.5rem;
+   text-align:center;
+   margin-left: 2rem;
+   margin-right: 2rem;
+   text-decoration: none; }
+
+
+  .h4-back-to-github-repository:hover {
+  color: #D0b1d4;
+  cursor:pointer; }
+
+
+  .h4-view-map-live {
+   font-family: 'Poppins', sans-serif;
+   color: #ab84bb;
+   font-weight: 500;
+   font-size: .8rem;
+   text-align:center;
+   margin-left: 2rem;
+   margin-right: 2rem;
+   padding-bottom: .7rem;
+   text-decoration: none; }
+
+  .h4-view-map-live:hover {
+  color: #D0b1d4;
+  cursor:pointer; }
+
+
+/* -- CSS CODE FOR THE STATE COUNTY MAP -- */
+
+
+  .state-bg {
+  background-color: rgba(85,84,128,1.0);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover; }
+
+
+
+  .statename-subpages {
+  font-family: 'Pacifico', cursive;
+  font-weight:300;
+  font-size:3rem;
+  text-align:center !important;
+  margin-top: 0rem;
+  margin-bottom:.25rem;
+  color:#f6f6f6; }
+
+
+
+  .text-center {
+  text-align:center !important;}
+
+
+  #Birds0fAFeather 
+
+
+  us-map {
+  text-decoration: none;
+  background-color: #ab84bb; }
+
+
+  .hint-grey {
+  	fill:#a9a9a9;
+  	stroke:#555480;
+        stroke-width:1.06px; }
+
+  a#us-map.hint-grey:hover {
+  	fill:#ab84bb;
+  	opacity:1;
+  	cursor: pointer; }
+
+
+
+
+
+
+ /* -- FOOTER CSS CODE -- */
+
+ footer .page-footer .footer-copyright {
+  overflow: hidden;
+    overflow-x: hidden;
+    overflow-y: hidden;
+  background-color:rgba(255,255,255,.6); }
+
+  .quote-bg {
+    background-color: rgba(170, 132, 187, 0.4);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover; }
+
+
+
+
+
+
+ /* -- FRAMEWORK OF THE RESPONSIVE WEBPAGE -- */
+
+
+ .row{
+display:-ms-flexbox;
+display:flex;-ms-flex-wrap:wrap;
+flex-wrap:wrap;
+margin-right:-15px;
+margin-left:-15px }
+
+
+.col-lg-10{
+-ms-flex:0 0 83.333333%;
+flex:0 0 83.333333%;
+max-width:83.333333%; }
+
+
+.col-md-12{
+-ms-flex:0 0 100%;
+flex:0 0 100%;
+max-width:100%; }
+
+
+
+.col,
+.col-1,.col-10,.col-11,.col-12,.col-2,.col-3,.col-4,.col-5,.col-6,.col-7,.col-8,.col-9,
+
+.col-auto,
+
+.col-lg, .col-lg-1,.col-lg-10,.col-lg-11,.col-lg-12,.col-lg-2,.col-lg-3,.col-lg-4,.col-lg-5,.col-lg-6,
+.col-lg-7,.col-lg-8,.col-lg-9,.col-lg-auto,
+
+.col-md,
+.col-md-1,.col-md-10,.col-md-11,.col-md-12,.col-md-2,.col-md-3,.col-md-4,.col-md-5,.col-md-6,
+.col-md-7,.col-md-8,.col-md-9,.col-md-auto,
+
+.col-sm,
+.col-sm-1,.col-sm-10,.col-sm-11,.col-sm-12,.col-sm-2,.col-sm-3,.col-sm-4,.col-sm-5,.col-sm-6,
+.col-sm-7,.col-sm-8,.col-sm-9,.col-sm-auto,
+
+.col-xl,
+.col-xl-1,.col-xl-10,.col-xl-11,.col-xl-12,.col-xl-2,.col-xl-3,.col-xl-4,.col-xl-5,.col-xl-6,
+.col-xl-7,.col-xl-8,.col-xl-9,.col-xl-auto{
+position:relative;
+width:100%;
+min-height:1px; }
+                                                                                                                                                                                                                                          
+
+
+
+
+   /* UTILITIES FOR THE RESPONSIVENESS -- */
+
+
+    .pt-5,.py-5{
+    padding-top:3rem!important; }
+
+
+    .pb-3,.py-3{
+    padding-bottom:1rem!important; }
+
+
+    .pt-3,.py-3{
+    padding-top:1rem!important; }
+
+
+    .pb-3,.py-3{
+    padding-bottom:1rem!important; }
+
+
+    .mr-auto,.mx-auto{
+    margin-right:auto!important; }
+
+    .ml-auto,.mx-auto{
+    margin-left:auto!important; }
+
+    .mt-5,.my-5{
+    margin-top:3rem!important; }
+
+
+
