@@ -37,7 +37,7 @@ Open source SVG U.S. state county maps (CC license)
 
   /* SVG MAP DATA 
 
-Q: Parts of this svg map were thoughtfully appropriated by Rachel Ramsey for Pioneer Queens. 
+Q: Parts of this svg map was thoughtfully appropriated by Rachel Ramsey for Pioneer Queens. 
 Can you please explain where parts of the original svg come from? 
 
 A: Yes. www.dublincore.org + Source: Own Work (December 5, 2012) + Author: Inqvisitor
