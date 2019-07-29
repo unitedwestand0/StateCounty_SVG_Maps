@@ -116,6 +116,18 @@
     cursor: pointer;
   }
 
+    .hint-grey-colorado {
+    fill:#a9a9a9;
+    stroke:#f9f9f9;
+    stroke-width:3.5px;
+  }  
+
+  a#us-map.hint-grey-colorado:hover {
+    fill:#ab84bb;
+    opacity: 1;
+    cursor: pointer;
+  }
+
   .state_bg_white_background {
     background-color: #f9f9f9;
   }
