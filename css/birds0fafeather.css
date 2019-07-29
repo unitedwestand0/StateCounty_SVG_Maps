@@ -153,6 +153,19 @@
     cursor: pointer;
   }
 
+
+  .hint-grey-florida {
+  fill:#a9a9a9;
+  stroke:#f9f9f9;
+  stroke-width:2px;
+  }  
+
+  a#us-map.hint-grey-florida:hover {
+    fill:#ab84bb;
+    opacity: 1;
+    cursor: pointer;
+  }
+
   .state_bg_white_background {
     background-color: #f9f9f9;
   }
