@@ -71,12 +71,56 @@
   .hint-grey {
   	fill:#a9a9a9;
   	stroke:#555480;
-        stroke-width:1.06px; }
+    stroke-width:1.06px; }
 
   a#us-map.hint-grey:hover {
   	fill:#ab84bb;
   	opacity:1;
   	cursor: pointer; }
+
+  .hint-grey-arizona {
+    fill:#a9a9a9;
+    stroke:#555480;
+    stroke-width:2.25px;
+  }  
+
+  a#us-map.hint-grey-arizona:hover {
+    fill:#ab84bb;
+    opacity: 1;
+    cursor: pointer;
+  }
+
+
+    .hint-grey-arkansas {
+    fill:#a9a9a9;
+    stroke:#555480;
+    stroke-width:4.40px;
+  }  
+
+  a#us-map.hint-grey-arkansas:hover {
+    fill:#ab84bb;
+    opacity: 1;
+    cursor: pointer;
+  }
+
+
+    .hint-grey-california {
+    fill:#a9a9a9;
+    stroke:#f9f9f9;
+    stroke-width:2.75px;
+  }  
+
+  a#us-map.hint-grey-california:hover {
+    fill:#ab84bb;
+    opacity: 1;
+    cursor: pointer;
+  }
+
+  .state_bg_white_background {
+    background-color: #f9f9f9;
+  }
+
+
 
 
 
@@ -158,6 +202,9 @@ min-height:1px; }
 
     .pt-5,.py-5{
     padding-top:3rem!important; }
+
+    .pb-5,.py-5{
+    padding-bottom:3rem!important; }
 
 
     .pb-3,.py-3{
