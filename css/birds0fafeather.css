@@ -78,6 +78,19 @@
   	opacity:1;
   	cursor: pointer; }
 
+
+  .hint-grey-1 {
+    fill:#a9a9a9;
+    stroke:#f9f9f9;
+    stroke-width:1px; }
+
+  a#us-map.hint-grey-1:hover {
+    fill:#ab84bb;
+    opacity:1;
+    cursor: pointer; }
+
+
+
   .hint-grey-arizona {
     fill:#a9a9a9;
     stroke:#555480;
